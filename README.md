@@ -6,3 +6,17 @@ https://i.ibb.co.com/BDSZ4XK/Cover.png
 <h3 align="center">Frontend Developer | React | Tailwind | Firebase</h3>
 
 ---
+### 👩‍💻 About Me
+
+I'm a passionate junior frontend developer from **Dhaka, Bangladesh**, skilled in crafting beautiful and responsive web applications using **React**, **Tailwind CSS**, and **Firebase**. I enjoy learning new technologies and love building real-world projects.
+
+---
+
+### 🔭 Current Activities
+
+- 🔍 Exploring **Next.js** and advanced React patterns  
+- 🧳 Building a full-featured **Freelance Website**  
+- 🔐 Learning about secure **Firebase Authentication**  
+- 📚 Practicing clean UI design with **Tailwind CSS**
+
+---
