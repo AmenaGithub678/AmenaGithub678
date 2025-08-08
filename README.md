@@ -24,7 +24,6 @@ I'm a passionate junior frontend developer from **Dhaka, Bangladesh**, skilled i
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js" />
@@ -34,11 +33,8 @@ I'm a passionate junior frontend developer from **Dhaka, Bangladesh**, skilled i
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?logo=tanstack&logoColor=white" alt="TanStack Query" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/AOS-000000?logo=aos&logoColor=white" alt="AOS" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white" alt="Framer Motion" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/MongoDB_Compass-47A248?logo=mongodb&logoColor=white" alt="MongoDB Compass" />
