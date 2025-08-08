@@ -13,10 +13,11 @@ I'm a passionate junior frontend developer from **Dhaka, Bangladesh**, skilled i
 
 ### 🔭 Current Activities
 
-- 🔍 Exploring **Next.js** and advanced React patterns  
-- 🧳 Building a full-featured **Freelance Website**  
-- 🔐 Learning about secure **Firebase Authentication**  
-- 📚 Practicing clean UI design with **Tailwind CSS**
+-  Exploring **Next.js** and advanced React  
+-  Building a full-featured **Freelance Website**  
+-  Learning about secure **Firebase Authentication**
+- I help people build web applications.
+-  Practicing clean UI design with **Tailwind CSS**
 
 ---
 ## 🛠️ Skills & Technologies
