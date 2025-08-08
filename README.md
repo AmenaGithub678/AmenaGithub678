@@ -59,16 +59,16 @@ I'm a passionate junior frontend developer from **Dhaka, Bangladesh**, skilled i
 ## 📈 GitHub Stats & Activity
 
 ### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=chibgatullahminhaz&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=AmenaGithub678&theme=onedark)
 
 ### 🔝 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chibgatullahminhaz&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmenaGithub678&layout=compact&theme=tokyonight)
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chibgatullahminhaz&show_icons=true&count_private=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmenaGithub678&show_icons=true&count_private=true&theme=tokyonight)
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chibgatullahminhaz&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmenaGithub678&theme=tokyonight)
 
 ---
 
